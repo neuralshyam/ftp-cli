@@ -8,3 +8,4 @@ preview show filename
 delete delete filename
 makedir mkdir dir-name
 Thanks for reading this trash 
+If you have any question and want to help me contact me on neuralshyam@gmail.com
